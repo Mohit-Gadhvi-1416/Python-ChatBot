@@ -3,7 +3,7 @@ Built a fast Learning Python Chatbot using NLP and Machine Learning Model which 
 <hr>
 To start the chatbot open the VS code terminal for new.py file
 run the given command : <b>python -u "C:\Users\mohit\Downloads\chatbot\chatbot\new.py" </b> (here the directory can change as per your local computer)
------------------it will take some time to load & learn the responses from the data provided and print "Executed" -----------------
+<br> it will take some time to load & learn the responses from the data provided and print <b>"Executed"</b>-----------------
 <hr>
 Next,
 <br> Open the new terminal for chatbot.py
